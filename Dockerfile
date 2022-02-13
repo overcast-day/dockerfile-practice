@@ -8,4 +8,4 @@ RUN conda install -y --quiet \
     jupyterlab=3.* \
 
 # Install rasterio python package
-RUN conda install -c conda-forge rasterio=1.2.10 -y
+RUN conda install -c conda-forge rasterio=1.2.10 -y \
