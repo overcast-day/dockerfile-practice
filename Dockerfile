@@ -1,6 +1,6 @@
 # author: Diana Liang
 
-#Obtain image from this source
+# Obtain image from this source
 FROM ubcdsci/jupyterlab
 
 # Install rasterio python package
